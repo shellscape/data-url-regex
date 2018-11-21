@@ -1,0 +1,19 @@
+{
+  "name": "data-url-regex",
+  "version": "0.0.0",
+  "description": "A Regular Expression for Matching data: URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellscape/data-url-regex.git"
+  },
+  "author": "Andrew Powell <andrew@shellscape.org>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/shellscape/data-url-regex/issues"
+  },
+  "homepage": "https://github.com/shellscape/data-url-regex#readme"
+}
